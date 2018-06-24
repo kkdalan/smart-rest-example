@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.smart4j</groupId>
-	<artifactId>smart-rest</artifactId>
+	<artifactId>smart-rest-example</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
-	<name>smart-rest</name>
+	<name>smart-rest-example</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
